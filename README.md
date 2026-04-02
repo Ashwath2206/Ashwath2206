@@ -12,7 +12,6 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 - 👯 I’m a Self-thought Analyst interested in data analysis,data science,ML & DL.
 - 🧐 I love Maths
 - 🌱 I’m currently building data models and helping product teams to identify the problems.
-- 🥅 2023 Goals: To build my first end-end ML model.
 - ⚡ Future Goals: To make some changes in the world where I live
 
 ### Connect with me:
